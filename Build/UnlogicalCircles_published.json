@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unlogical Circles",
+"productVersion": "0.1",
+"dataUrl": "UnlogicalCircles_published.data.unityweb",
+"wasmCodeUrl": "UnlogicalCircles_published.wasm.code.unityweb",
+"wasmFrameworkUrl": "UnlogicalCircles_published.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
